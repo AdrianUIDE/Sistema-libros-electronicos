@@ -1,4 +1,4 @@
-## Autor: Adrian
+## Autor: Adrian Herrera
 ## Fecha: 25/01/2026
 # Sistema-libros-electronicos
 
